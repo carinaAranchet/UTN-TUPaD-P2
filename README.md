@@ -1,1 +1,3 @@
 # UTN-TUPaD-P2
+JDK 24
+Netbeans 26
