@@ -14,7 +14,7 @@ public class Ejecicio9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa tu nombre: ");
-        String nombre = scanner.nextLine(); // ERROR
+        String nombre = scanner.nextLine(); // Se cambio nextInt por nextLine
         System.out.println("Hola, " + nombre);
     }
     
